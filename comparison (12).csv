@@ -1,0 +1,5 @@
+quantity,value,uncertainty,unit,status
+Liquid density,1048,24.8997992,kg/m^3,COMPLETE (n=5)
+Bubble radius,0.004258151403,0.0001945110337,m,INCOMPLETE (one or more measurements are strongly non-circular)
+Terminal velocity,0.1990631577,0.003116510836,m/s,COMPLETE (user-selected range)
+Dynamic viscosity,0.2078602844,0.01989109399,Pa*s,INCOMPLETE (data or uncertainty requirements not met)

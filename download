@@ -1,0 +1,16 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+# Large original experimental videos should not be committed
+*.mp4
+*.MOV
+*.mov
+*.avi
+*.mkv
+*.m4v
+*.wmv
+# Local/editor settings
+.vscode/
+.DS_Store

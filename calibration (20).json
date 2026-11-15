@@ -1,0 +1,27 @@
+{
+  "run_id": "20261115_134059_dfbbc3b0",
+  "dataset_role": "user_experiment",
+  "selected_fluid": "Water",
+  "original_video_file_path": "C:\\Users\\PC\\Desktop\\3\\TRANSPORTE\\lab bubbles\\videos lab transporte\\fluids lab water.mp4",
+  "video_fps": 59.95736709514889,
+  "video_frame_count": 1547,
+  "video_resolution_pixels": {
+    "width": 464,
+    "height": 832
+  },
+  "video_duration_seconds": 25.80166666666667,
+  "calibration_frame_index": 120,
+  "calibration_timestamp_seconds": 2.0014221073044602,
+  "first_ruler_point_original_pixels": {
+    "x": 307.510569517063,
+    "y": 746.8826952268512
+  },
+  "second_ruler_point_original_pixels": {
+    "x": 308.67996289424855,
+    "y": 469.7364648338675
+  },
+  "real_distance_cm": 10.0,
+  "pixel_distance_pixels": 277.1486974566386,
+  "centimeters_per_pixel": 0.03608171386612615,
+  "meters_per_pixel": 0.0003608171386612615
+}

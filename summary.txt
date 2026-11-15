@@ -1,0 +1,30 @@
+Laboratory 1 - Viscosity analysis
+
+Fluid: Glycerol
+Original video: C:\Users\PC\Desktop\3\TRANSPORTE\lab bubbles\videos lab transporte\fluids lab glycerol.mp4
+Calibration: C:\Users\PC\Desktop\3\TRANSPORTE\lab bubbles\results\glycerol\20261115_170636_762557e7\calibration.json
+Tracking measurements: C:\Users\PC\Desktop\3\TRANSPORTE\lab bubbles\results\glycerol\20261115_170636_762557e7\bubble_tracking.csv
+Analysis folder: C:\Users\PC\Desktop\3\TRANSPORTE\lab bubbles\results\glycerol\20261115_170636_762557e7\analysis_20261115_171712_8ab2d74e
+
+Comparison table (value +/- sample standard deviation when available):
+Liquid density: 1382 +/- 66.10597552 kg/m^3 — COMPLETE (n=5)
+Bubble radius: 0.003049029212 +/- 2.529967613e-05 m — INCOMPLETE (one or more measurements are strongly non-circular)
+Terminal velocity: 0.02821841552 +/- 0.001463768848 m/s — COMPLETE (user-selected range)
+Dynamic viscosity: 0.9916943024 +/- 0.07191130389 Pa*s — INCOMPLETE (data or uncertainty requirements not met)
+
+Density standard deviation uses at least five genuine readings.
+Density measurements entered: 5 genuine value(s).
+Bubble-radius measurements accepted: 3.
+Terminal-velocity intervals: 6 through 8 (user selected).
+
+Approximate Stokes equation:
+mu = 2 * R^2 * (rho_liquid - rho_air) * g / (9 * v_terminal)
+SI units: R in m, density in kg/m^3, g in m/s^2, velocity in m/s, viscosity in Pa*s.
+Assumed air density: 1.2 kg/m^3. Assumed gravity: 9.81 m/s^2.
+
+Complete independent-input uncertainty equation:
+sigma_mu = mu * sqrt((2*sigma_R/R)^2 + (sigma_rho_liquid/(rho_liquid-rho_air))^2 + (sigma_rho_air/(rho_liquid-rho_air))^2 + (sigma_v/v)^2 + (sigma_g/g)^2)
+PARTIAL propagation includes radius, liquid-density, and selected-velocity sample standard deviations.
+The uncertainty uses sample standard deviations of repeated measurements as spread estimates. Density uncertainty is included only when at least five genuine density readings were entered.
+The reported uncertainty is PARTIAL. It excludes calibration uncertainty, uncertainty in assumed air density and gravity, measurement bias, and possible systematic errors.
+Stokes' equation is approximate and assumes a spherical bubble, low-Reynolds-number flow, and negligible wall effects.

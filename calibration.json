@@ -1,0 +1,27 @@
+{
+  "run_id": "20261115_170636_762557e7",
+  "dataset_role": "user_experiment",
+  "selected_fluid": "Glycerol",
+  "original_video_file_path": "C:\\Users\\PC\\Desktop\\3\\TRANSPORTE\\lab bubbles\\videos lab transporte\\fluids lab glycerol.mp4",
+  "video_fps": 59.95758432639871,
+  "video_frame_count": 1979,
+  "video_resolution_pixels": {
+    "width": 464,
+    "height": 832
+  },
+  "video_duration_seconds": 33.00666666666667,
+  "calibration_frame_index": 120,
+  "calibration_timestamp_seconds": 2.0014148559878726,
+  "first_ruler_point_original_pixels": {
+    "x": 253.8127272727273,
+    "y": 719.0709475709476
+  },
+  "second_ruler_point_original_pixels": {
+    "x": 247.30125353775856,
+    "y": 407.506353025493
+  },
+  "real_distance_cm": 10.0,
+  "pixel_distance_pixels": 311.6326296530495,
+  "centimeters_per_pixel": 0.03208906593360688,
+  "meters_per_pixel": 0.0003208906593360688
+}

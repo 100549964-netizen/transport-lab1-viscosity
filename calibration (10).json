@@ -1,0 +1,27 @@
+{
+  "run_id": "20261115_171942_a3e2ed2e",
+  "dataset_role": "user_experiment",
+  "selected_fluid": "Oil",
+  "original_video_file_path": "C:\\Users\\PC\\Desktop\\3\\TRANSPORTE\\lab bubbles\\videos lab transporte\\fluids lab oil.mp4",
+  "video_fps": 59.95836224843858,
+  "video_frame_count": 1728,
+  "video_resolution_pixels": {
+    "width": 464,
+    "height": 832
+  },
+  "video_duration_seconds": 28.82,
+  "calibration_frame_index": 120,
+  "calibration_timestamp_seconds": 2.001388888888889,
+  "first_ruler_point_original_pixels": {
+    "x": 331.0228475228474,
+    "y": 764.2676767676769
+  },
+  "second_ruler_point_original_pixels": {
+    "x": 322.4905954785955,
+    "y": 450.0551755651756
+  },
+  "real_distance_cm": 10.0,
+  "pixel_distance_pixels": 314.32832394946297,
+  "centimeters_per_pixel": 0.03181386861467749,
+  "meters_per_pixel": 0.0003181386861467749
+}
