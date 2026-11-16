@@ -1545,9 +1545,7 @@ After implementing, explain how I can repeat tracking in my existing Water exper
 
 ---
 
-### Final integration prompt (recovered from conversation)
-
-I need to FINISH Laboratory 1 – Viscosity using my existing Python project.
+### Final integration prompt 
 
 Please stop adding unnecessary features. I need one simple, complete, functional program for analyzing my own experimental videos of WATER, GLYCEROL and OLIVE OIL.
 
@@ -1578,4 +1576,4 @@ REQUIRED FUNCTIONALITY:
 
 After implementation, give me ONE concise set of instructions explaining exactly how to analyze each of my three videos and find the resulting graphs and numerical data.
 
-The goal is to obtain the measurements and figures required for the two-page scientific laboratory report.
+The goal is to obtain the measurements and figures required for the scientific laboratory report.
